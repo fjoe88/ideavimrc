@@ -1,6 +1,9 @@
 " Set mapleader = " "
 let mapleader = " "
 
+:set relativenumber
+:set number
+
 " Ignore case in search patterns
 set ignorecase
 
